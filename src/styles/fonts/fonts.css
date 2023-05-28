@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'OpenSans-Bold';
+    src: url('../../../public/Fonts/OpenSans-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+  }
+
+@font-face {
+  font-family: 'OpenSans-Regular';
+  src: url('../../../public/Fonts/OpenSans-Light.ttf') format('truetype');
+  font-weight: lighter;
+  font-style: normal;
+}
+
+@font-face {
+    font-family: 'OpenSans-Medium';
+    src: url('../../../public/Fonts/OpenSans-Medium.ttf') format('truetype');
+    font-weight: 350;
+    font-style: normal;
+  }
